@@ -1,0 +1,3 @@
+spooky = int(input())
+
+print('sp'+(spooky*'o')+'ky')
